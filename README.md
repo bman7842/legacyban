@@ -1,0 +1,2 @@
+# legacyban
+Legacy Ban plugin
