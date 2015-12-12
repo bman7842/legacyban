@@ -1,0 +1,10 @@
+Permissions:
+  kyrapunish: "kyra.punish"
+  kyrasafe: "kyra.safe"
+Messages:
+  KickMessage:
+    - 'You have been kicked from the server by ' %punisher%
+  BanMessage:
+    - '&4You have been banned from the server for %time%'
+    - '&4Reason: &f%reason%'
+    - '&4Who banned you: &f%whobannedplayer'

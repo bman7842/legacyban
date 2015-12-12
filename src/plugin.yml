@@ -1,0 +1,23 @@
+name: LegacyBan
+main: me.bman7842.legacyban.Main
+version: 1
+author: bman7842
+description: Legacy Ban plugin
+commands:
+  mute:
+    description: Mutes a player
+  kick:
+    description: Kicks a player
+  ban:
+    description: Bans a player
+  tempban:
+    description: Bans a player for a temporary time
+  unban:
+    description: Unbans a player
+  mute:
+    description: Mutes a player
+  unmute:
+    description: Unmutes a player
+  mutechat:
+    description: Mutes the chat
+    aliases: [mc]
